@@ -1,0 +1,71 @@
+/*轮播图*/
+.banner{background:#b7f2fa;height:300px;}
+.bannerCon{width:1204px;margin:0px auto;}
+.bannerAd{width:760px;height:300px;float:left; margin-left:220px; display:inline;}
+.bannerAd img{width:760px;height:300px;}
+/*轮播图右侧新闻*/
+.bannerNews{width:220px;height:240px;background:#2e677e; float:left;margin-top:20px;}
+.bannerNews ul{padding:10px 15px;}
+.bannerNews ul li {line-height:28px;background:url(../images/listA.jpg) no-repeat 0px center;padding-left:12px;}
+.bannerNews ul li a {color:#fff;font-family:"微软雅黑";font-size:14px;}
+/*轮播图下优惠*/
+.pref{padding:10px;width:964px;border:1px solid #ebebeb; margin:0px auto;height:92px;margin-bottom:20px; padding-left:220px;}
+/*
+.pref dl {width:311px;float:left;height:90px;margin-left:11px; display:inline;}
+.pref dl dt {width:90px;height:90px;float:left; margin-right:10px;}
+.pref dl dd{color:#999; line-height:20px;}
+.pref dl dd strong{font-size:15px; font-family:"微软雅黑"; font-weight:normal; color:#333; margin-bottom:5px; display:block;}
+.pref dl dd a{color:#666;}
+.pref dl dd span {display:block;background:url(../images/yhbg.png) no-repeat 0px -58px;width:38px; height:16px;float:left;line-height:16px;padding-left:20px; color:#fff; margin-top:8px; font-family:"微软雅黑";}
+.pref ul {width:308px;float:left;height:90px;margin-left:10px;padding-top:5px; display:inline;}
+.pref ul li {line-height:16px; color:#999; clear:both; display:block; height:16px; margin-bottom:15px;}
+.pref ul li strong{display:block; float:left; margin-right:5px; color:#fff; font-weight:normal; font-family:"微软雅黑"; padding-left:5px;}
+.pref ul li strong.bgStg01{background:url(../images/yhbg.png) no-repeat 0px 0px;height:16px;width:48px;}
+.pref ul li strong.bgStg02{background:url(../images/yhbg.png) no-repeat 0px -20px;height:16px;width:48px;}
+.pref ul li strong.bgStg03{background:url(../images/yhbg.png) no-repeat 0px -40px;height:16px;width:55px;}
+.pref ul li p {float:left;}
+*/
+/*首页内容*/
+.box{width:100%; padding:20px 0px;}
+.boxBg{background:#f6f6f6;}
+
+.main{width:1204px;margin:0px auto;}
+.mainTil{height:30px;line-height:30px;clear:both;}
+.mainTil h3 {font-family:"微软雅黑";font-size:20px;width:220px;float:left;font-weight:normal;color:#333;}
+.mainTil p {width:984px;float:left;border-bottom:1px solid #ddd; }
+.mainTil p a{ width:80px;display:block;float:left;  text-align:center;font-family:"微软雅黑";font-size:14px; margin:0px 10px;}
+.mainTil p a.check{border-bottom:2px solid #188eee;color:#188eee; margin-bottom:-2px;}
+.mainTil p a:hover{border-bottom:2px solid #188eee;color:#188eee; margin-bottom:-2px;}
+
+
+
+.mainCon{width:1204px;margin:0px auto;}
+.mainLf{width:220px;float:left;margin-top:-1px;}
+.mainMf{width:726px;padding:8px 10px;float:left;}
+.mainMf ul li {background:url(../images/iconSchList2.png) no-repeat center 110px;height:124px;float:left;margin:8px 5px 12px;}
+/*.mainMf ul li:hover{border-radius:1px;box-shadow:#ebebeb 0 1px 1px;}*/
+.mainMf ul li img{width:220px;height:74px;margin-bottom:5px;}
+.mainMf ul li a {display:block; text-align:center;}
+.mainMfTj{padding:1px;width:220px;line-height:17px;border:1px solid #ddd;background:#fff; padding-bottom:10px;}
+
+/*.mainMf ul li strong{display:block;font-family:"微软雅黑";font-size:14px;color:#333;font-weight:normal;}
+.mainMf ul li span {display:block;color:#999;margin-top:3px;}*/
+
+.mainRf{width:218px;padding:10px;_padding:0px;float:left;display:inline;}
+.mainRfTil{width:218px;height:39px;line-height:39px;}
+.mainRfTil a {width:109px;float:left;border-bottom:1px solid #ddd;font-family:"微软雅黑";font-size:14px;text-align:center;}
+.mainRfTil a.check{border-bottom:1px solid #188eee;color:#188eee;}
+.mainRfCon{padding:10px 0px;}
+.mainRfCon ul li {line-height:40px; font-family:"微软雅黑"; font-size:14px; clear:both;}
+.mainRfCon ul li a {color:#333;}
+.mainRfCon ul li span {float:left; width:18px; height:18px; display:block; margin-right:5px; margin-top:10px;}
+.mainRfCon ul li span.bgSpan01{background:url(../images/bgSx.png) no-repeat 0px 0px;}
+.mainRfCon ul li span.bgSpan02{background:url(../images/bgSx.png) no-repeat -21px 0px;}
+.mainRfCon ul li span.bgSpan03{background:url(../images/bgSx.png) no-repeat -42px 0px;}
+.mainRfCon ul li span.bgSpan04{background:url(../images/bgSx.png) no-repeat -63px 0px;}
+.mainRfCon ul li span.bgSpan05{background:url(../images/bgSx.png) no-repeat -84px 0px;}
+.mainRfCon ul li span.bgSpan06{background:url(../images/bgSx.png) no-repeat -105px 0px;}
+.mainRfCon ul li span.bgSpan07{background:url(../images/bgSx.png) no-repeat -126px 0px;}
+.mainRfCon ul li span.bgSpan08{background:url(../images/bgSx.png) no-repeat -147px 0px;}
+.mainRfCon ul li span.bgSpan09{background:url(../images/bgSx.png) no-repeat -168px 0px;}
+.mainRfCon ul li span.bgSpan10{background:url(../images/bgSx.png) no-repeat -189px 0px;}
